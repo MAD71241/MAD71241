@@ -10,8 +10,8 @@ const michele = {
             Javascript: ["Vue.jss", "React.js"]
         },
         backEnd: {
-            database: ["MySql]
-            php: ["Laravel]
+            database: ["MySql"]
+            php: ["Laravel"]
         }        
     }
 };
