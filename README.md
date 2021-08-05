@@ -2,15 +2,16 @@
 ```javascript
 const michele = {
     pronouns: "he" | "him",
-    code: [HTML, CSS, SCSS, Javascript],
+    code: [HTML, CSS, SCSS, Javascript, PHP],
     askMeAbout: ["web dev", "tech", "music", "movies", "vg"],
     technologies: {
         frontEnd: {
             css: ["bootstrap"]
-            Javascript: ["VueJs"]
+            Javascript: ["Vue.jss", "React.js"]
         },
         backEnd: {
-            "...studies in progress"
+            database: ["MySql]
+            php: ["Laravel]
         }        
     }
 };
