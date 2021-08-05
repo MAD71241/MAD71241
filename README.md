@@ -6,11 +6,11 @@ const michele = {
     askMeAbout: ["web dev", "tech", "music", "movies", "vg"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap"]
+            css: ["bootstrap"],
             Javascript: ["Vue.jss", "React.js"]
         },
         backEnd: {
-            database: ["MySql"]
+            database: ["MySql"],
             php: ["Laravel"]
         }        
     }
