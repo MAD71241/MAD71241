@@ -7,7 +7,7 @@ const michele = {
     technologies: {
         frontEnd: {
             css: ["bootstrap"],
-            Javascript: ["Vue.jss", "React.js"]
+            Javascript: ["Vue.js", "React.js"]
         },
         backEnd: {
             database: ["MySql"],
