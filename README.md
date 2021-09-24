@@ -14,7 +14,7 @@ const michele = {
             php: ["Laravel"],
             baas: ["Firebase"]
         },
-    workInProgress: ["AWS", "Backbone.js"]
+    learning: ["AWS", "Backbone.js", "Firebase"]
     }
 };
 ```
