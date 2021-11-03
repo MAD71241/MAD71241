@@ -17,7 +17,7 @@ const michele = {
     }
 };
 ```
-<h1 align="center">Hello there 👋, I'm Michele</h1>
+<h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michele</h1>
 <h3 align="center">A passionate web developer from Italy</h3>
 
 <h4 align="left">Languages and Tools:</h3>
@@ -57,7 +57,6 @@ const michele = {
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  </a>  </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.sourcetreeapp.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sourcetree_original_logo_icon_146336.png" alt="sourcetree" width="40" height="40"/>
   </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/michele-angelo-deliso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michele-angelo-deliso/" height="30" width="40" /></a>
