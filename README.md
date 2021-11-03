@@ -43,6 +43,11 @@ const michele = {
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
     <a href="https://cakephp.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cakephp_icon_130704.png" alt="cakephp" width="40" height="40"/> </a> 
   </p>
+ <h5 align="left">Devops</h5>
+  <p align="left"> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  </p>
 <h5 align="left">Database</h5>
   <p align="left"> 
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -50,7 +55,7 @@ const michele = {
  <h5 align="left">Software</h5>
   <p align="left"> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  </a>  </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.docker.com//" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <a href="https://www.sourcetreeapp.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sourcetree_original_logo_icon_146336.png" alt="sourcetree" width="40" height="40"/>
   </p>
 
 <h3 align="left">Connect with me:</h3>
