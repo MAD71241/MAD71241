@@ -11,6 +11,7 @@ const michele = {
         backEnd: {
             database: ["MySql"],
             php: ["Laravel"],
+            javascript: ["Node.js"],
             baas: ["Firebase"]
         },
     learning: ["AWS", "Backbone.js", "Firebase"]
