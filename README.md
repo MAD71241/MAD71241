@@ -62,3 +62,4 @@ const michele = {
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/michele-angelo-deliso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michele-angelo-deliso/" height="30" width="40" /></a>
 </p>
+<img align="right" src="https://www.codewars.com/users/MAD71241/badges/large" alt="codewars-badge-micro"/>
