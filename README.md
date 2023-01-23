@@ -4,7 +4,10 @@ const michele = {
     code: [HTML, CSS, SCSS, Javascript, PHP],
     askMeAbout: ["web dev", "tech", "music", "movies", "vg"],
     technologies: {
-        "AWS"
+        devOps: {
+            "AWS",
+            "Docker"
+        },
         frontEnd: {
             css: ["Bootstrap"],
             javascript: ["Vue.js", "React"]
