@@ -4,6 +4,7 @@ const michele = {
     code: [HTML, CSS, SCSS, Javascript, PHP],
     askMeAbout: ["web dev", "tech", "music", "movies", "vg"],
     technologies: {
+        "AWS"
         frontEnd: {
             css: ["Bootstrap"],
             javascript: ["Vue.js", "React"]
@@ -14,7 +15,7 @@ const michele = {
             javascript: ["Node.js"],
             baas: ["Firebase"]
         },
-    learning: ["AWS", "Backbone.js", "Firebase"]
+    learning: ["Python"]
     }
 };
 ```
