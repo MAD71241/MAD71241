@@ -13,7 +13,7 @@ const michele = {
             javascript: ["Vue.js", "React"]
         },
         backEnd: {
-            database: ["MySql"],
+            database: ["MySql", "MongoDB"],
             php: ["Laravel"],
             javascript: ["Node.js"],
             baas: ["Firebase"]
@@ -56,6 +56,7 @@ const michele = {
 <h5 align="left">Database</h5>
   <p align="left"> 
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+ <a href="https://www.mongodb.com/it-it/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
      </p>
  <h5 align="left">Software</h5>
   <p align="left"> 
