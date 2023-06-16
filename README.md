@@ -1,7 +1,7 @@
 ```javascript
 const michele = {
     pronouns: "he" | "him",
-    code: [HTML, CSS, SCSS, Javascript, PHP],
+    code: [HTML, CSS, SCSS, Javascript, Typescript PHP],
     askMeAbout: ["web dev", "tech", "music", "movies", "vg"],
     technologies: {
         devOps: {
@@ -15,7 +15,7 @@ const michele = {
         backEnd: {
             database: ["MySql", "MongoDB"],
             php: ["Laravel", "CakePHP"],
-            javascript: ["Node.js"],
+            javascript: ["Express", "Fastify"],
             baas: ["Firebase"]
         },
     learning: ["Python"]
@@ -28,6 +28,7 @@ const michele = {
 <h4 align="left">Languages and Tools:</h3>
 <h5 align="left">Programming Languages:</h3>
 <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></p>
 <h5 align="left">Frontend Development:</h3>
 <p align="left">
@@ -46,7 +47,8 @@ const michele = {
  <h5 align="left">Framework</h5>
   <p align="left"> 
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-    <a href="https://cakephp.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cakephp_icon_130704.png" alt="cakephp" width="40" height="40"/> </a> 
+      <a href="https://cakephp.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cakephp_icon_130704.png" alt="cakephp" width="40" height="40"/> </a> 
+    <a href="https://expressjs.com//" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
   </p>
  <h5 align="left">Devops</h5>
   <p align="left"> 
