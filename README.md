@@ -1,7 +1,7 @@
 ```javascript
 const michele = {
     pronouns: "he" | "him",
-    code: [HTML, CSS, SCSS, Javascript, Typescript PHP],
+    code: [HTML, CSS, SCSS, Javascript, Typescript, PHP],
     askMeAbout: ["web dev", "tech", "music", "movies", "vg"],
     technologies: {
         devOps: {
