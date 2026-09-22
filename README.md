@@ -46,10 +46,8 @@ const michele = {
 
  <h5 align="left">Framework</h5>
   <p align="left"> 
-<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
       <a href="https://cakephp.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cakephp_icon_130704.png" alt="cakephp" width="40" height="40"/> </a> 
     <a href="https://expressjs.com//" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
-      <a href="https://nestjs.com///" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nest" width="40" height="40"/> </a>
   </p>
  <h5 align="left">Devops</h5>
   <p align="left"> 
